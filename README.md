@@ -9,3 +9,7 @@ This is my final project for CF7. It is a task scheduling application running se
 3. Install Flask: ```pip install flask```
 4. Run Server: ```python app.py```
 
+-Deployment of the application
+1) It is deployed via https://render.com/ as a webservice.
+2) Render builds the app and installs prerequisites through the requirements.txt in main repository.
+3) Render deploys the application at https://taskscedulercf7.onrender.com/
